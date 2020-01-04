@@ -19,6 +19,7 @@ eureka:
     #item-service: /item-service/**
    # user-service: /user-service/**
    # order-service: /order-service/**
+
 zuul:
   sensitive-headers:
   retryable: true
